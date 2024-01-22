@@ -1,3 +1,6 @@
+'''
+A Group Project
+'''
 games = read.csv('/Downloads/games.csv')
 #to_remove = c('id', 'increment_code', 'white_id', 'black_id', 'moves', 'opening_eco' )
 to_remove = c('id', 'increment_code', 'white_id', 'black_id', 'moves', 'opening_eco', 'opening_name' , 'opening_ply')
