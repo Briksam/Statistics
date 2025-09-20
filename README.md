@@ -96,7 +96,7 @@ The `code.R` script applies a diverse set of statistical techniques:
 
 This project was made possible thanks to the efforts of the following contributors:
 
-* 🧑‍💻 \Briksam Kasımoğlu
-* 🧑‍💻 \Firas Elbayoumi
-* 🧑‍💻 \Yaser Z. K. Shoshaa
+* 🧑‍💻 Briksam Kasımoğlu
+* 🧑‍💻 Firas Elbayoumi
+* 🧑‍💻 Yaser Z. K. Shoshaa
 ---
